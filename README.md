@@ -53,7 +53,7 @@ streamlit run app.py
 ## 🎯 Demo
 🚀 Open the Streamlit app and enter movie details to predict ratings instantly!
 
-🌐 **Streamlit App**: [Live Demo](https://share.streamlit.io/Daniikur/Movie_Rating_Prediction)
+🌐 **Streamlit App**: [Live Demo](https://movie-rating-prediction1.streamlit.app/)
 
 ## 📎 Repository Link
 🔗 GitHub: [Movie Rating Prediction](https://github.com/Daniikur/Movie_Rating_Prediction.git)
